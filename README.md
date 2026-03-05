@@ -15,7 +15,13 @@
 
 ###
 
-<h2 align="center">Seja bem vindo ao meu GitHub!</h2>
+<h1 align="center">Seja bem vindo ao meu GitHub!</h1>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
 
 ###
 
@@ -24,6 +30,12 @@
 ###
 
 <p align="left">Olá! Me chamo Daniel Alonso<br><br>💻 Atualmente estudo e trabalho como Analista Cloud.<br>🚀 Tenho interesse em DevSecOps, Infraestrutura e Cloud Computing<br>📚 Estou sempre aprendendo sobre Linux, Docker, AWS, Azure, IaC e etc.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
 
 ###
 
@@ -101,6 +113,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dalonsw/dalonsw/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dalonsw/dalonsw/output/pacman-contribution-graph.svg">
@@ -110,7 +128,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
 
 ###
