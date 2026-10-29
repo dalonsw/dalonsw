@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Daniel Alonso, tenho 22 anos.<br><br>💻 Atualmente sou estudante de Sistemas de Informação na UNEX e trabalho como Analista Cloud na ilegra.<br>🚀 Tenho interesse em DevSecOps, Infraestrutura e Cloud Computing<br>📚 Estou sempre aprendendo sobre Linux, Python, Docker, AWS, Azure, IaC e etc.</p>
+<p align="left">Olá! Me chamo Daniel Alonso, tenho 23 anos.<br><br>💻 Atualmente sou estudante de Sistemas de Informação na UNEX e trabalho como Analista Cloud na ilegra.<br>🚀 Tenho interesse em DevSecOps, Infraestrutura e Cloud Computing<br>📚 Estou sempre aprendendo sobre Linux, Python, Docker, AWS, Azure, IaC e etc.</p>
 
 ###
 
